@@ -6,7 +6,7 @@ A collection of learning prompts on cutting edge topics!
 There are around 2500 prompts on 50 cutting edge topics at the moment...will add more over time.
 
 ## 🚀 About Me
-I'm Keyur Ahuja, an author and entrepreneur. I have written 2 books and launched 10 startups till now. You can learn more by visiting my profile.
+I'm Keyur Ahuja, an author and entrepreneur. I love writing books and building startups. You can learn more by visiting my profile.
 
 
 ## 🔗 Links
